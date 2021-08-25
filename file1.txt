@@ -2,5 +2,6 @@ Hi how are you
 
 rewards{
 height:100%;
-width:100%;
+width:50%;
+value:1234';
 }
