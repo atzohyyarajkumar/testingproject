@@ -4,7 +4,7 @@ rewards{
 height:100%;
 width:50%;
 value:1234';
-currrency:ruppees;
+currrency:ruppes;
 }
 
 hello
